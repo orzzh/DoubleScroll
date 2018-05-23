@@ -1,0 +1,26 @@
+PODS:
+  - Bugly (2.5.0)
+  - MJRefresh (3.1.15.3)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - Bugly
+  - MJRefresh
+  - YYKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Bugly
+    - MJRefresh
+    - YYKit
+
+SPEC CHECKSUMS:
+  Bugly: 3ca9f255c01025582df26f9222893b383c7e4b4e
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: d279c5e57e21771dabe7d6f6241b817a78eae60f
+
+COCOAPODS: 1.5.0
